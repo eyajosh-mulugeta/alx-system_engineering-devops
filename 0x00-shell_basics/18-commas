@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -cm -p -a
+ls -m -a -p | sort -n
