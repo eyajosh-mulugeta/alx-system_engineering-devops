@@ -1,2 +1,2 @@
 #!/bin/bash
-rsync -aruvq ./ ../*.html
+cp -aruv ./ ../*.html
