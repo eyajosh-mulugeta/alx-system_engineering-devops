@@ -1,2 +1,2 @@
-B#!/bin/bash
-grep -o 'bin' <<<"$PATH" | grep -c .
+#!/bin/bash
+grep -o ':/' <<<"$PATH" | grep -c .
