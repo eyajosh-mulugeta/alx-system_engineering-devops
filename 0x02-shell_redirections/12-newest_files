@@ -1,2 +1,2 @@
 B#!/bin/bash
-ls -t ./ | head -n 10
+ls -alt ./ | head -n 10
